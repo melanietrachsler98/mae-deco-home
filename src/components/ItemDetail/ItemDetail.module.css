@@ -1,0 +1,15 @@
+.detalle {
+  display: flex;
+  gap: 40px;
+  align-items: center;
+}
+
+.imagen {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.informacion {
+  width: 50%;
+}

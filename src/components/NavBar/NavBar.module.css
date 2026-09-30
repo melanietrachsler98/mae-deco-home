@@ -1,0 +1,36 @@
+.navbar {
+  background-color: #f8f9fa;
+  padding: 1rem;
+}
+
+.navbar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+}
+
+.navbar li a {
+  text-decoration: none;
+  color: #333;
+}
+
+.navbar li a:hover {
+  text-decoration: underline;
+}
+
+.cart {
+  display: flex;
+  align-items: center;
+}
+
+.cart a {
+  display: flex;
+  align-items: center;
+  color: #333;
+}
+
+.cart a:hover {
+  color: #2a49df;
+}
